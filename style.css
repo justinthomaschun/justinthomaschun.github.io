@@ -1,0 +1,30 @@
+body {
+    margin: 1em;
+    font-family: sans-serif;
+    background-color: #111;
+    color: #ddd;
+}
+
+tt {
+    background-color: #133;
+    color: #acc;
+    border-radius: 3px;
+    padding: 1px 3px;
+}
+
+a { 
+    color: green;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+li {
+    color: grey;
+}
+
+p {
+    color: grey;
+}
